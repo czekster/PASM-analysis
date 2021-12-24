@@ -12,9 +12,18 @@ This repository compiles data from the PASM and describe a brief analysis in a [
 # Auxiliary tools
 - [Overleaf](overleaf.com/) online LaTeX editor (free)
   - On-line tool (Internet)
-- [JabRef](https://docs.jabref.org/) (free)
+- [JabRef](https://docs.jabref.org/) version 5.4 (free)
   - Download: 169Mb
 - [WordClouds](https://www.wordclouds.co.uk/) (free)
   - On-line tool (Internet)
 - MS-Excel (proprietary)
+
+# Using the JabRef layout file
+1. Open JabRef 
+2. Open .bibfile (`PASM-new2021.bib`)
+3. Go to _Options > Preferences > Custom export formats_
+4. Create a new one: click on "Add", then choose a name (e.g., `myFormat`), add the layout file provided here (`myLayout.layout`), and file extension put `export`
+5. Click on _File > Export > Export all entries_
+6. Choose a name (e.g., `output`) and then on 'Type' option, select the `export` option (created on item 4)
+7. Open exported file in a text editor (`output.export`) - change the layout file as you wish to your needs
 

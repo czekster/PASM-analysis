@@ -27,3 +27,13 @@ This repository compiles data from the PASM and describe a brief analysis in a [
 6. Choose a name (e.g., `output`) and then on 'Type' option, select the `export` option (created on item 4)
 7. Open exported file in a text editor (`output.export`) - change the layout file as you wish to your needs
 
+# PASM workshop editions over the years
+- [3rd PASM](http://homepages.cs.ncl.ac.uk/nigel.thomas/PASM05.htm)
+- [4th PASM](http://homepages.cs.ncl.ac.uk/nigel.thomas/PASM09.html)
+- [5th PASM](http://homepages.cs.ncl.ac.uk/nigel.thomas/PASM11.htm)
+- [6th PASM](http://homepages.cs.ncl.ac.uk/nigel.thomas/PASM12.htm)
+- [7th PASM](http://homepages.cs.ncl.ac.uk/nigel.thomas/PASM14.htm)
+- [8th PASM](http://homepages.cs.ncl.ac.uk/nigel.thomas/PASM16.htm)
+- [9th PASM](http://homepages.cs.ncl.ac.uk/nigel.thomas/PASM17.htm)
+- [10th PASM](http://homepages.cs.ncl.ac.uk/nigel.thomas/PASM19.htm)
+

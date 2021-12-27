@@ -2,6 +2,9 @@
 Practical Applications of Stochastic Modelling (PASM) workshop series analysis.
 This repository compiles data from the PASM and describe a brief analysis in a [ResearchGate pre-print](https://www.researchgate.net/publication/357279741_Practical_Applications_of_Stochastic_Modelling_PASM_over_15_years_ten_workshop_editions_and_95_papers_later) entitled: _"Practical Applications of Stochastic Modelling (PASM) over 15 years: ten workshop editions and 95 papers later"_, December 2021, [DOI: 10.13140/RG.2.2.30162.07368](http://dx.doi.org/10.13140/RG.2.2.30162.07368), License: Creative Commons BY-NC-SA 4.0, by Ricardo M. Czekster.
 
+# Updates
+- On 27/12/2021 I complemented analysis with a reverse index search by keyword, listing the paper identifier.
+
 # Files
 - `keywords-PASM.txt`: the 'full' list of keywords for all 95 papers (all editions), a total of 414;
 - `myLayout.layout`: file used to perform a customised export using the [JabRef](https://docs.jabref.org/) tool;
